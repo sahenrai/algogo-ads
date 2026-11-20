@@ -1,0 +1,3 @@
+Merge Intervals in 60 seconds 🗓️ The LeetCode problem big tech keeps asking. Sort, then sweep.
+
+#leetcode #codinginterview #softwareengineer #csmajor #python #faang #algogo
